@@ -1,0 +1,8 @@
+{
+  "name": "Justitia Partners",
+  "description": "Layanan Hukum Terpercaya dan AI Legal Assistant terintegrasi untuk UMKM dan Bisnis Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
